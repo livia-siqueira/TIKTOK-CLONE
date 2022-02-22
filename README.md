@@ -16,9 +16,9 @@ I'm a front end software developer.
 
 ## Screenshots
 
-![App Screenshot]("/public/imagesReadme/localhost_3000_ (7).png")
-![App Screenshot]("/public/imagesReadme/localhost_3000_ (8).png")
-![App Screenshot]("/public/imagesReadme/localhost_3000_ (9).png")
+<img src="/public/imagesReadme/localhost_3000_ (7).png"/>
+<img src="/public/imagesReadme/localhost_3000_ (8).png"/>
+<img src="/public/imagesReadme/localhost_3000_ (9).png"/>
 
 
 ## Stack utilizada
